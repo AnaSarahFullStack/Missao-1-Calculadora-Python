@@ -1,4 +1,4 @@
-# Calculadora Básica - Missão 1
+# Calculadora Básica
 
 Este projeto faz parte da Missão 1 do meu portfólio de Python.  
 Ele solicita que o usuário digite seu nome e idade e realiza operações básicas de calculadora, exibindo os resultados na tela.
